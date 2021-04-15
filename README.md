@@ -11,4 +11,4 @@ Projenin arayüz çıktısı:
 
 ![image](https://user-images.githubusercontent.com/70938435/114952433-e7eb3d00-9e5e-11eb-9133-3c5550b6d386.png)
 
-https://github.com/yaren-kasimoglu/Digital_Clock1/blob/main/img/saatilekod.jpeg?raw=true
+

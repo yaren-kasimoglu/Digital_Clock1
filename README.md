@@ -11,4 +11,5 @@ Projenin arayüz çıktısı:
 
 ![image](https://user-images.githubusercontent.com/70938435/114952433-e7eb3d00-9e5e-11eb-9133-3c5550b6d386.png)
 
+![image](https://user-images.githubusercontent.com/70938435/114952538-208b1680-9e5f-11eb-9be4-1f52d019a2f1.png)
 

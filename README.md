@@ -7,3 +7,4 @@ Arayüzü geliştirmek için Tkinter ve time paketlerini kullandıık.
 Tkinter: GUI (Grafik Kullanıcı Arayüzü) paketidir. Yani Tkinter bir python kütüphanesidir.
 
 
+![image](https://user-images.githubusercontent.com/70938435/114952433-e7eb3d00-9e5e-11eb-9133-3c5550b6d386.png)
